@@ -5,14 +5,13 @@
   Repo by docl18d
   null
   
-  Installation:
-  To install the necessary dependencies, run the following command
-  Usage:
-  A blog site where developers can publish their blog posts and comment no other developer's posts.
-  Contributors:
-  Adrein Leavitt
-  Tests:
-  To run tests, run the following command: npm run test
-  Questions:
-  If you have questions about the repo, open an issue or contact me directly at adrein.leavitt@gmail.com. You can find more of my work at docl18d.
+  Installation: To install the necessary dependencies, run the following command: npm i.  To use the app got to https://docl18d.github.io/leavitt_MVC_tech_blog/
+
+  Usage:  A blog site where developers can publish their blog posts and comment no other developer's posts.
+  
+  Contributors: Adrein Leavitt
+  
+  Tests: To run tests, run the following command: npm run test
+  
+  Questions: If you have questions about the repo, open an issue or contact me directly at adrein.leavitt@gmail.com. You can find more of my work at docl18d.
   
