@@ -5,7 +5,7 @@
   Repo by docl18d
   null
   
-  Installation: To install the necessary dependencies, run the following command: npm i.  To use the app go to https://docl18d.github.io/leavitt_MVC_tech_blog/
+  Installation: To install the necessary dependencies, run the following command: npm i.  To use the app go to https://leavitt-mvc-tech-blog.herokuapp.com/
 
   Usage:  A blog site where developers can publish their blog posts and comment no other developer's posts.
   
