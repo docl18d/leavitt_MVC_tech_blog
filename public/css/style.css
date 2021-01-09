@@ -1,3 +1,5 @@
-body {
-    background: teal;
+#cardDescription{    
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
