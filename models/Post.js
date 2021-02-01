@@ -16,7 +16,7 @@ Post.init(
       allowNull: false,
     },
     description: {
-      type: DataTypes.STRING,
+      type: DataTypes.TEXT,
     },
     user_id: {
       type: DataTypes.INTEGER,
@@ -25,6 +25,11 @@ Post.init(
         key: 'id',
       },
     },
+    // createdAt: {
+    //   type: DataTypes.DATE,
+    //   allowNull: false,
+    //   defaultValue: DataTypes.NOW,
+    // },
   },
   {
     sequelize,
